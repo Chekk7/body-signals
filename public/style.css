@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; }
+h1 { text-align: center; }
+form { display: flex; gap: 10px; margin-bottom: 20px; }
+input { padding: 5px; flex: 1; }
+button { padding: 5px 10px; }
+ul { list-style: none; padding: 0; }
+li { padding: 10px; border-bottom: 1px solid #ddd; }
+li strong { color: #333; }

@@ -1,0 +1,9 @@
+{
+    "signals": [
+      {"part": "nails", "observation": "Yellow Nails", "condition": "Fungal infection", "added": "2025-04-10T16:20:54.078Z"},
+      {"part": "Nails", "observation": "Vertical ridges", "condition": "Aging or iron deficiency anemia", "added": "2025-04-11T16:00:00.000Z"},
+      {"part": "Nails", "observation": "Beau’s lines", "condition": "Illness or malnutrition", "added": "2025-04-11T16:00:00.000Z"},
+      {"part": "Ears", "observation": "Earlobe crease", "condition": "Heart disease risk", "added": "2025-04-11T16:00:00.000Z"},
+      {"part": "Veins", "observation": "Bulging varicose veins", "condition": "Poor circulation or blood clot risk", "added": "2025-04-11T16:00:00.000Z"}
+    ]
+  }
